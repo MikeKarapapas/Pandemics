@@ -36,7 +36,7 @@ After that hit the "Go!" button and watch the evolution of the pandemic!
 
 - Protection measures button : For every person it diminishes his velocity to decrease the number of interactions between humans and subsequently the probability of infection
 
-- Self protection measures button : Each person in taking care of hisself (washing hands, not touching his face) and inferencly he diminishes the chances of getting infected by 70%!
+- Self protection measures button : Each person is taking care of hisself (washing hands, not touching his face) and inferencly he diminishes the chances of getting infected by 70%!
 
 - Quarantine button : Sets the velocity of each person to 0 decreasing the rate of infected people per day
 
