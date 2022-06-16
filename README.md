@@ -48,6 +48,6 @@ After that hit the "Go!" button and watch the evolution of the pandemic!
 
 Not all people cooperate! There is a small number of people that don't follow the orders you give so even if you lock everyone in their house there is still a small number of people that don't obey, hence you might see the cases increasing for some days.
 
-Note: Protection measures don't work the same every time, as in real life. There are times that work perfect and indeed stop the continuous number of infected people and other times it doesn't work the same.
+Note: Protection measures don't work the same every time, as in real life! There are times that work perfect and indeed stop the continuous increase number of infected people and other times it doesn't work the same.
 
 Have fun!!!
