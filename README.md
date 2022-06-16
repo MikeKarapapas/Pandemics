@@ -50,4 +50,8 @@ Not all people cooperate! There is a small number of people that don't follow th
 
 Note: Protection measures don't work the same every time, as in real life! There are times that work perfect and indeed stop the continuous increase number of infected people and other times it doesn't work the same.
 
+# End of the pandemic
+
+The end of the pandemic is when the infected number of people is equal to 0. The main tkinter screen automatically closes and a matplotlib graph appears that shows the evolution of the pandemic throughout the days.
+
 Have fun!!!
