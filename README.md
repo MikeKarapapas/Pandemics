@@ -1,4 +1,4 @@
-# Pandemics
+# Pandemics created by Mixalhs Karapapas
 
 This project is inspired by the Covid-19 outbreak and it is designed to give you a sense of how pandemics work.
 To start the project just double click on Pandemics.py file and a screen will pop-up.
